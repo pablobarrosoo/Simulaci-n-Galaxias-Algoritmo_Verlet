@@ -2,7 +2,7 @@
 Proyecto de Física Computacional para explicar la forma espiral de las galaxias
 
 ## Programas en C++:
-Los programas del método 1 están listos para ejecutar y observar la simulación. Si el programa de cálculos tarda demasiado recomiendo bajar en numero de cuerpos N. Esto se hace en la cabecera de todos los programas, en la parte de Datos.
+Los programas del método 1 están listos para ejecutar y observar la simulación. Si el programa de cálculos tarda demasiado recomiendo bajar el número de cuerpos N. Esto se hace en la cabecera de todos los programas, en la parte de Datos.
 
 Los programas del método 2 tiene dos configuraciones. Actualmente se encuentra configurado para observar la evolución de los brazos espirales. En el caso de que se quiera usar el programa para el cálculo del periodo del Sol deben hacerse algunos cambios en el apartado de Datos al inicio del código:
 1) Disminuir considerablemente el número de cuerpos. Recomiendo 500 o 100.
