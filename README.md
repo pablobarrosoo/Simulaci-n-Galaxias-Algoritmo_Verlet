@@ -1,5 +1,7 @@
 # Simulación-Galaxias-Algoritmo_Verlet
-Proyecto de Física Computacional para explicar la forma espiral de las galaxias
+Proyecto de Física Computacional para explicar la forma espiral de las galaxias. 
+1) Método 1 consiste en el Problema del 'Winding'.
+2) Método 2 aplica la solución de Lin-Shu. El programa 'representar_Metodo2_espirales' es un extra que representa espirales aleatorias con la misma excentricidad y rotadas según la solución de Lin-Shu. Esto ayuda mucho a visualizar en que consiste la solución.
 
 ## Programas en C++:
 Los programas del método 1 están listos para ejecutar y observar la simulación. Si el programa de cálculos tarda demasiado recomiendo bajar el número de cuerpos N. Esto se hace en la cabecera de todos los programas, en la parte de Datos.
