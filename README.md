@@ -11,5 +11,5 @@ Los programas del método 2 tiene dos configuraciones. Actualmente se encuentra 
 4) Seleccionar la excentricidad del Sol igual a 0,06, la real.
 
 
-## Programas de Python:
+## Programas en Python:
 Se encargan de representar las simulaciones. Está todo listo para ejecutar. Solo hay que asegurarse de que el número de cuerpos (N) sea el mismo que en C++. Para acelerar o ralentizar la simulación recomiendo modificar el parametro de 'SALTO_FRAMES', 1 para que dibuje todos los frames y X para que dibuje 1 de cada x frames.
